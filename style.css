@@ -161,7 +161,7 @@ section:nth-child(2n+1){
     margin:4px 0px 4px 10px;  
 }
 #bg-box-blue{
-    width:60%;
+    width:70%;
     height:30px;
     background-color:#2857a4;
     display:flex;
@@ -186,7 +186,7 @@ section:nth-child(2n+1){
     align-items:flex-center;
 }
 #bg-box-green{
-    width:65%;
+    width:70%;
     height:30px;
     background-color:green;
     display:flex;
@@ -340,4 +340,16 @@ form button{
     font-size:15px;
     overflow-wrap:break-word;
     text-align:right;
+}
+.projects{
+    color: maroon;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 15px;
+    font-family: sans-serif;
+    font-weight: bold;
+    border:1px solid grey;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 5px;
 }

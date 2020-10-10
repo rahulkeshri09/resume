@@ -1,0 +1,711 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"a",
+				"appendChild"
+			],
+			[
+				"i",
+				"input"
+			],
+			[
+				"cre",
+				"createTextNode"
+			],
+			[
+				"ed",
+				"editTask"
+			],
+			[
+				"edit",
+				"editTask"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"e",
+				"editTask"
+			],
+			[
+				"gete",
+				"getElementsByClassName"
+			],
+			[
+				"s",
+				"setAttribute"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"getE",
+				"getElementById"
+			],
+			[
+				"up",
+				"updateTask"
+			],
+			[
+				"u",
+				"updateTask"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"get",
+				"getElementsByClassName"
+			],
+			[
+				"st",
+				"startStopwatch"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"sc",
+				"scoreDisplay"
+			],
+			[
+				"gt",
+				"getItem"
+			],
+			[
+				"lo",
+				"localStorage"
+			],
+			[
+				"b",
+				"ballDir"
+			],
+			[
+				"ball",
+				"ballLeft"
+			],
+			[
+				"ro",
+				"rodPos"
+			],
+			[
+				"m",
+				"changeMovement"
+			],
+			[
+				"bal",
+				"ballTop"
+			],
+			[
+				"mo",
+				"moveBall"
+			],
+			[
+				"move",
+				"moveBall"
+			],
+			[
+				"rod",
+				"rodLength"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"wi",
+				"windowWidth"
+			],
+			[
+				"key",
+				"keyCode"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"clr",
+				"clrOne"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"op",
+				"operator"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"fl",
+				"flex-direction\tproperty"
+			],
+			[
+				"spa",
+				"space-around\tjustify-content"
+			],
+			[
+				"fle",
+				"flex\tdisplay"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"del",
+				"delNode"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"styl",
+				"list-style\tproperty"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"foo",
+				"footer-player3"
+			],
+			[
+				"mp",
+				"mp3"
+			],
+			[
+				"v",
+				"visible\toverflow"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"album",
+				"album-song-list"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"foll",
+				"Follow"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"f",
+				"font-weight\tproperty"
+			],
+			[
+				"al",
+				"album-details"
+			],
+			[
+				"bi",
+				"birthday-bash"
+			],
+			[
+				"t",
+				"tujhe-kitna-chahne-lage-hum"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"qu",
+				"queue-header-right"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"q",
+				"queue-header"
+			],
+			[
+				"bol",
+				"bold\tfont-weight"
+			],
+			[
+				"que",
+				"Queue"
+			],
+			[
+				"sha",
+				"shape_of_you"
+			],
+			[
+				"flex-",
+				"flex-direction\tproperty"
+			],
+			[
+				"teal",
+				"text-align\tproperty"
+			],
+			[
+				"ar",
+				"artist-song-list"
+			],
+			[
+				"pop",
+				"popular"
+			],
+			[
+				"fa-pla",
+				"fa-play"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"fa-play",
+				"fa-play-circle"
+			],
+			[
+				"ov",
+				"overflow\tproperty"
+			],
+			[
+				"gr",
+				"grey"
+			],
+			[
+				"fa-pa",
+				"fa-pause"
+			],
+			[
+				"song",
+				"song-details-icon"
+			],
+			[
+				"pla",
+				"play-song"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"j",
+				"justify-content\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"hei",
+				"height\tproperty"
+			],
+			[
+				"r",
+				"right\ttext-align"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"cur",
+				"cursor\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"header-",
+				"header-flex-left"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"head",
+				"header-flex-left"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"backg",
+				"background-position\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"liv",
+				"LiveReload: Help"
+			],
+			[
+				"livereloa",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live",
+				"LiveReload: Help"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sin",
+				"Snippet: html"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Dell/Desktop/cn_private/mini_tasks/todo list/index.html",
+		"/C/Users/Dell/Desktop/cn_private/mini_tasks/todo list vanillaJS/todo.css",
+		"/C/Users/Dell/Desktop/cn_private/mini_tasks/todo list vanillaJS/todo.html",
+		"/C/Users/Dell/Desktop/cn_private/mini_tasks/todo list vanillaJS/todo.js",
+		"/C/Users/Dell/Desktop/cn_private/mini_tasks/todo list vanillaJS/ete",
+		"/C/Users/Dell/Desktop/cn_private/mini_tasks/resume/style.css",
+		"/C/Users/Dell/Desktop/cn_private/mini_tasks/resume/index.html",
+		"/C/Users/Dell/Desktop/web mob/stopwatch/style.js",
+		"/C/Users/Dell/Desktop/web mob/stopwatch/style.css",
+		"/C/Users/Dell/Desktop/web mob/stopwatch/index.html",
+		"/C/Users/Dell/Desktop/cn_private/mini_tasks/ping_pong_game/style.js",
+		"/C/Users/Dell/Desktop/cn_private/mini_tasks/ping_pong_game/style.css",
+		"/C/Users/Dell/Desktop/cn_private/mini_tasks/ping_pong_game/index.html",
+		"/C/Users/Dell/Desktop/cn_private/mini_tasks/calculator/calculator.js",
+		"/C/Users/Dell/Desktop/cn_private/mini_tasks/calculator/calculator.css",
+		"/C/Users/Dell/Desktop/cn_private/mini_tasks/calculator/index.html",
+		"/C/Users/Dell/Desktop/cn_private/mini_tasks/todo list vanillaJS/todp.js",
+		"/C/Users/Dell/Desktop/cn_private/mini_tasks/accordion1.html",
+		"/C/Users/Dell/Desktop/cn_private/mini_tasks/switch.css",
+		"/C/Users/Dell/Desktop/cn_private/mini_tasks/switch.html",
+		"/C/Users/Dell/Desktop/hovercheck.html",
+		"/C/Users/Dell/Desktop/git_foldr/college_project/music_player/css/song-list.css",
+		"/C/Users/Dell/Desktop/git_foldr/college_project/music_player/html/artist-song-list.html",
+		"/C/Users/Dell/Desktop/git_foldr/college_project/music_player/css/main.css",
+		"/C/Users/Dell/Desktop/git_foldr/college_project/music_player/index.html",
+		"/C/Users/Dell/Desktop/git_foldr/music_player/css/song-list.css",
+		"/C/Users/Dell/Desktop/git_foldr/music_player/html/artist-song-list.html",
+		"/C/Users/Dell/Desktop/git_foldr/music_player/index.html",
+		"/C/Users/Dell/Desktop/git_foldr/music_player/audio/astronomia.mp3",
+		"/C/Users/Dell/Desktop/cn_private/major-project/music_player/html/index.html",
+		"/C/Users/Dell/Desktop/cn_private/major-project/music_player/css/main.css",
+		"/C/Users/Dell/Desktop/cn_private/major-project/music_player/css/song-list.css",
+		"/C/Users/Dell/Desktop/cn_private/major-project/music_player/html/artist-song-list.html",
+		"/C/Users/Dell/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Dell/Desktop/cn_private/major-project/music_player/html/index.sublime-workspace",
+		"/C/Users/Dell/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/C/Users/Dell/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+		"/C/Users/Dell/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/Users/Dell/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
